@@ -1,0 +1,22 @@
+{
+  "name": "learn_typescript",
+  "version": "1.0.0",
+  "description": "First attempt at typescript",
+  "main": "main.ts",
+  "scripts": {
+    "test": "tsc main.ts & node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Exr0n/learn_typescript_0.git"
+  },
+  "author": "Exr0n",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Exr0n/learn_typescript_0/issues"
+  },
+  "homepage": "https://github.com/Exr0n/learn_typescript_0#readme",
+  "dependencies": {
+    "typescript": "^3.5.3"
+  }
+}
